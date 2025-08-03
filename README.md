@@ -79,8 +79,8 @@ This project is part of a **2-month Web Development Internship** and demonstrate
 ## 📬 Contact
 
 **Md Kamil**  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
+Email: mdkam780@gmail.com
+GitHub: [mohdkam10](https://github.com/mohdkam10)
 
 ---
 
